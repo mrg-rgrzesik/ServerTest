@@ -32,6 +32,9 @@ group :doc do
   gem 'sdoc', require: false
 end
 
+#javascript
+gem 'execjs'
+
 #capistrano
 group :development do
   gem 'capistrano-rails', '~> 1.0.0'

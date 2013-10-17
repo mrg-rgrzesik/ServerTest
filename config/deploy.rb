@@ -1,10 +1,36 @@
-set :application, 'my app name'
-set :repo_url, 'git@example.com:me/my_repo.git'
+#set :stages, %w(production staging)
+#set :default_stage, "staging"
+##require 'capistrano/ext/multistage'
+#set :application, "ServerTest"
+#set :repository, "https://github.com/mrg-rgrzesik/ServerTest.git"
+#set :scm, :git
+#
+#set :deploy_to, "/var/www/ServerTest"
+#
+#desc "check production task"
+#task :check_production do
+#
+#  if stage.to_s == "production"
+#    puts " \n Are you REALLY sure you want to deploy to production?"
+#    puts " \n Enter the password to continue\n "
+#    password = STDIN.gets[0..7] rescue nil
+#    if password != 'mypasswd'
+#      puts "\n !!! WRONG PASSWORD !!!"
+#      exit
+#    end
+#
+#  end
+#
+#end
+#
+#before "deploy", "check_production"
 
-# ask :branch, proc { `git rev-parse --abbrev-ref HEAD`.chomp }
+set :application, 'ServerTest'
+set :repo_url, 'https://github.com/mrg-rgrzesik/ServerTest.git'
+set :branch, "master"
 
-# set :deploy_to, '/var/www/my_app'
-# set :scm, :git
+set :deploy_to, '/var/www/html/ServerTest'
+set :scm, :git
 
 # set :format, :pretty
 # set :log_level, :debug
