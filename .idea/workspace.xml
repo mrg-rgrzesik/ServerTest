@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b749639-3712-4166-9a77-9765e4687d09" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ServerTest.iml" afterPath="$PROJECT_DIR$/.idea/ServerTest.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/environments/production.rb" afterPath="$PROJECT_DIR$/config/environments/production.rb" />
     </list>
     <ignored path="ServerTest.iws" />
@@ -14,7 +13,7 @@
     <file path="/database.yml" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382037966230" ignored="false" />
     <file path="/routes.rb" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382040339961" ignored="false" />
     <file path="/application.html.erb" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382041690732" ignored="false" />
-    <file path="/production.rb" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382045113481" ignored="false" />
+    <file path="/production.rb" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382045461627" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,16 @@
       <file leaf-file-name="production.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="61" selection-start="1081" selection-end="1081" vertical-scroll-proportion="0.27376425">
+            <state line="40" column="129" selection-start="1717" selection-end="1717" vertical-scroll-proportion="0.46470132">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="development.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -845,13 +853,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config/deploy.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="47" selection-start="909" selection-end="909" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/database.yml.example">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -962,9 +963,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="61" selection-start="1081" selection-end="1081" vertical-scroll-proportion="0.27376425">
+        <state line="40" column="129" selection-start="1717" selection-end="1717" vertical-scroll-proportion="0.46470132">
           <folding />
         </state>
       </provider>
