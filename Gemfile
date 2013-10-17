@@ -36,9 +36,9 @@ end
 gem 'execjs'
 
 #capistrano
-group :development do
-  gem 'capistrano-rails', '~> 1.0.0'
-end
+#group :development do
+#  gem 'capistrano-rails', '~> 1.0.0'
+#end
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
