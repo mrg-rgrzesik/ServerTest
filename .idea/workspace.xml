@@ -1,20 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b749639-3712-4166-9a77-9765e4687d09" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/environments/production.rb" afterPath="$PROJECT_DIR$/config/environments/production.rb" />
-    </list>
+    <list default="true" id="8b749639-3712-4166-9a77-9765e4687d09" name="Default" comment="" />
     <ignored path="ServerTest.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Gemfile" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382064437273" ignored="false" />
+    <file path="/Gemfile" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382105080023" ignored="false" />
     <file path="/staging.rb" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1381960832025" ignored="false" />
-    <file path="/deploy.rb" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382019977154" ignored="false" />
-    <file path="/Dummy.txt" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382035544830" ignored="false" />
-    <file path="/database.yml" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382037966230" ignored="false" />
+    <file path="/deploy.rb" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382123283989" ignored="false" />
+    <file path="/Dummy.txt" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382104561200" ignored="false" />
+    <file path="/database.yml" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382118505771" ignored="false" />
     <file path="/routes.rb" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382040339961" ignored="false" />
-    <file path="/application.html.erb" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382041690732" ignored="false" />
-    <file path="/production.rb" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382045461627" ignored="false" />
+    <file path="/application.html.erb" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382124580420" ignored="false" />
+    <file path="/production.rb" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382107768247" ignored="false" />
+    <file path="$PROJECT_DIR$/../SparkMyInterest/config/database.yml" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382118835435" ignored="false" />
+    <file path="$PROJECT_DIR$/../SparkMyInterest/Gemfile" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382105081952" ignored="false" />
+    <file path="$PROJECT_DIR$/../SparkMyInterest/config/deploy/production.rb" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382107887697" ignored="false" />
+    <file path="$PROJECT_DIR$/../SparkMyInterest/config/deploy.rb" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382123283989" ignored="false" />
+    <file path="$PROJECT_DIR$/../SparkMyInterest/db/migrate/20131015201352_remove_eventlocation_table.rb" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382118867520" ignored="false" />
+    <file path="/20131015201352_remove_eventlocation_table.rb" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382118867520" ignored="false" />
+    <file path="$PROJECT_DIR$/../SparkMyInterest/app/assets/javascripts/events.js.coffee" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382133821801" ignored="false" />
+    <file path="/events.js.coffee" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382133821037" ignored="false" />
+    <file path="$PROJECT_DIR$/../SparkMyInterest/app/views/layouts/application.html.erb" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382124630398" ignored="false" />
+    <file path="/development.rb" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382124240023" ignored="false" />
+    <file path="$PROJECT_DIR$/../SparkMyInterest/config/environments/development.rb" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382124240433" ignored="false" />
+    <file path="$PROJECT_DIR$/../SparkMyInterest/app/views/main/index.html.erb" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382124853054" ignored="false" />
+    <file path="/index.html.erb" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382124853054" ignored="false" />
+    <file path="$PROJECT_DIR$/../SparkMyInterest/config/application.rb" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382127241352" ignored="false" />
+    <file path="$PROJECT_DIR$/../SparkMyInterest/app/models/price.rb" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382128259993" ignored="false" />
+    <file path="/price.rb" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382128258362" ignored="false" />
+    <file path="$PROJECT_DIR$/../SparkMyInterest/app/models/event.rb" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382128310676" ignored="false" />
+    <file path="/event.rb" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382128309867" ignored="false" />
+    <file path="$PROJECT_DIR$/../SparkMyInterest/app/views/events/_form.html.erb" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382133917703" ignored="false" />
+    <file path="/_form.html.erb" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382133917703" ignored="false" />
+    <file path="$PROJECT_DIR$/../SparkMyInterest/app/controllers/events_controller.rb" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382132628907" ignored="false" />
+    <file path="/events_controller.rb" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382132626444" ignored="false" />
+    <file path="$PROJECT_DIR$/../SparkMyInterest/config/routes.rb" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382129892426" ignored="false" />
+    <file path="$PROJECT_DIR$/../SparkMyInterest/app/controllers/price_controller.rb" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382130224046" ignored="false" />
+    <file path="/price_controller.rb" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382130224046" ignored="false" />
+    <file path="$PROJECT_DIR$/../SparkMyInterest/app/assets/javascripts/event_form.js" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382132139636" ignored="false" />
+    <file path="/event_form.js" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382132114479" ignored="false" />
+    <file path="$PROJECT_DIR$/../SparkMyInterest/app/views/events/show.html.erb" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382132460680" ignored="false" />
+    <file path="$PROJECT_DIR$/../SparkMyInterest/app/controllers/parser_controller.rb" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382132899214" ignored="false" />
+    <file path="$PROJECT_DIR$/../SparkMyInterest/app/assets/stylesheets/events.css.scss" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382133828551" ignored="false" />
+    <file path="/events.css.scss" changelist="8b749639-3712-4166-9a77-9765e4687d09" time="1382133828551" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,16 +65,34 @@
       <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="47" selection-start="838" selection-end="838" vertical-scroll-proportion="0.5716163">
+            <state line="38" column="16" selection-start="927" selection-end="927" vertical-scroll-proportion="0.47302905">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="production.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
+      <file leaf-file-name="database.yml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/database.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="153" selection-start="1239" selection-end="1239" vertical-scroll-proportion="0.0">
+            <state line="30" column="37" selection-start="753" selection-end="753" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="deploy.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/deploy.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="45" selection-start="622" selection-end="622" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="staging.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/deploy/staging.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="71" selection-start="618" selection-end="618" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -79,32 +125,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/main/index.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="routes.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/routes.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="19" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0">
-              <folding>
-                <marker date="1382041999000" expanded="true" signature="115:1661" placeholder="do ... end" />
-                <marker date="1382041999000" expanded="true" signature="99:296" placeholder="#..." />
-                <marker date="1382041999000" expanded="true" signature="320:1657" placeholder="#..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="application.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="54" selection-start="57" selection-end="57" vertical-scroll-proportion="-1.875">
+            <state line="32" column="49" selection-start="1356" selection-end="1356" vertical-scroll-proportion="-20.0">
               <folding>
                 <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -119,17 +143,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state line="18" column="1" selection-start="628" selection-end="628" vertical-scroll-proportion="0.0">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="21" selection-start="662" selection-end="662" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -167,8 +180,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="y" value="22" />
+    <option name="width" value="2560" />
+    <option name="height" value="1330" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -319,6 +333,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="environments" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ServerTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ServerTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="deploy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -508,7 +540,7 @@
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../SparkMyInterest" />
-    <property name="FullScreen" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
@@ -771,14 +803,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <frame x="0" y="22" width="2560" height="1330" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.45050216" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24980111" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -854,29 +886,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config/database.yml.example">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/database.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="47" selection-start="361" selection-end="361" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1382038521000" expanded="true" signature="-1:-1" placeholder="production:" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/main/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/assets/stylesheets/bootstrap-theme.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -895,9 +904,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="19" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0">
           <folding>
-            <marker date="1382041999000" expanded="true" signature="115:1661" placeholder="do ... end" />
-            <marker date="1382041999000" expanded="true" signature="99:296" placeholder="#..." />
-            <marker date="1382041999000" expanded="true" signature="320:1657" placeholder="#..." />
+            <marker date="1382041999000" expanded="true" signature="-1:-1" placeholder="do ... end" />
+            <marker date="1382041999000" expanded="true" signature="-1:-1" placeholder="#..." />
+            <marker date="1382041999000" expanded="true" signature="-1:-1" placeholder="#..." />
           </folding>
         </state>
       </provider>
@@ -913,7 +922,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="21" selection-start="662" selection-end="662" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -922,17 +931,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="1" selection-start="628" selection-end="628" vertical-scroll-proportion="0.0">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="54" selection-start="57" selection-end="57" vertical-scroll-proportion="-1.875">
-          <folding>
-            <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -950,9 +948,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="57" selection-start="699" selection-end="699" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config/deploy/production.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="45" selection-start="507" selection-end="507" vertical-scroll-proportion="0.0">
+        <state line="14" column="45" selection-start="507" selection-end="507" vertical-scroll-proportion="0.15969582">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/deploy/staging.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="71" selection-start="618" selection-end="618" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/deploy.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="45" selection-start="622" selection-end="622" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="49" selection-start="1356" selection-end="1356" vertical-scroll-proportion="-20.0">
+          <folding>
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="37" selection-start="753" selection-end="753" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -964,16 +1001,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="153" selection-start="1239" selection-end="1239" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="47" selection-start="838" selection-end="838" vertical-scroll-proportion="0.5716163">
+        <state line="38" column="16" selection-start="927" selection-end="927" vertical-scroll-proportion="0.47302905">
           <folding />
         </state>
       </provider>
